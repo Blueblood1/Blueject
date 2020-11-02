@@ -1,0 +1,12 @@
+I:\Bluekiller\Desktop\General\Contract\MrMundy\Blueject\Blueject\obj\Release\Blueject.csprojResolveAssemblyReference.cache
+I:\Bluekiller\Desktop\General\Contract\MrMundy\Blueject\Blueject\bin\Release\CricketGO.exe.config
+I:\Bluekiller\Desktop\General\Contract\MrMundy\Blueject\Blueject\bin\Release\CricketGO.exe
+I:\Bluekiller\Desktop\General\Contract\MrMundy\Blueject\Blueject\bin\Release\CricketGO.pdb
+I:\Bluekiller\Desktop\General\Contract\MrMundy\Blueject\Blueject\obj\Release\CricketGO.exe
+I:\Bluekiller\Desktop\General\Contract\MrMundy\Blueject\Blueject\obj\Release\CricketGO.pdb
+I:\Bluekiller\Desktop\GITHUB\Blueject\Blueject\bin\Release\CricketGO.exe.config
+I:\Bluekiller\Desktop\GITHUB\Blueject\Blueject\bin\Release\CricketGO.exe
+I:\Bluekiller\Desktop\GITHUB\Blueject\Blueject\bin\Release\CricketGO.pdb
+I:\Bluekiller\Desktop\GITHUB\Blueject\Blueject\obj\Release\Blueject.csproj.CoreCompileInputs.cache
+I:\Bluekiller\Desktop\GITHUB\Blueject\Blueject\obj\Release\CricketGO.exe
+I:\Bluekiller\Desktop\GITHUB\Blueject\Blueject\obj\Release\CricketGO.pdb

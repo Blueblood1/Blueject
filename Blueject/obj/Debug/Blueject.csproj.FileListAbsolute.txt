@@ -1,0 +1,25 @@
+I:\Bluekiller\Desktop\Contract\Mr Mundy\Blueject\Blueject\obj\Debug\Blueject.csprojResolveAssemblyReference.cache
+I:\Bluekiller\Desktop\Contract\Mr Mundy\Blueject\Blueject\bin\Debug\Blueject.exe.config
+I:\Bluekiller\Desktop\Contract\Mr Mundy\Blueject\Blueject\bin\Debug\Blueject.exe
+I:\Bluekiller\Desktop\Contract\Mr Mundy\Blueject\Blueject\bin\Debug\Blueject.pdb
+I:\Bluekiller\Desktop\Contract\Mr Mundy\Blueject\Blueject\obj\Debug\Blueject.exe
+I:\Bluekiller\Desktop\Contract\Mr Mundy\Blueject\Blueject\obj\Debug\Blueject.pdb
+I:\Bluekiller\Desktop\Contract\MrMundy\Blueject\Blueject\bin\Debug\Blueject.exe.config
+I:\Bluekiller\Desktop\Contract\MrMundy\Blueject\Blueject\bin\Debug\Blueject.exe
+I:\Bluekiller\Desktop\Contract\MrMundy\Blueject\Blueject\bin\Debug\Blueject.pdb
+I:\Bluekiller\Desktop\Contract\MrMundy\Blueject\Blueject\obj\Debug\Blueject.csprojResolveAssemblyReference.cache
+I:\Bluekiller\Desktop\Contract\MrMundy\Blueject\Blueject\obj\Debug\Blueject.exe
+I:\Bluekiller\Desktop\Contract\MrMundy\Blueject\Blueject\obj\Debug\Blueject.pdb
+I:\Bluekiller\Desktop\General\Contract\MrMundy\Blueject\Blueject\bin\Debug\Blueject.exe.config
+I:\Bluekiller\Desktop\General\Contract\MrMundy\Blueject\Blueject\bin\Debug\Blueject.exe
+I:\Bluekiller\Desktop\General\Contract\MrMundy\Blueject\Blueject\bin\Debug\Blueject.pdb
+I:\Bluekiller\Desktop\General\Contract\MrMundy\Blueject\Blueject\obj\Debug\Blueject.csprojResolveAssemblyReference.cache
+I:\Bluekiller\Desktop\General\Contract\MrMundy\Blueject\Blueject\obj\Debug\Blueject.exe
+I:\Bluekiller\Desktop\General\Contract\MrMundy\Blueject\Blueject\obj\Debug\Blueject.pdb
+I:\Bluekiller\Desktop\GITHUB\Blueject\Blueject\bin\Debug\CricketGO.exe.config
+I:\Bluekiller\Desktop\GITHUB\Blueject\Blueject\bin\Debug\CricketGO.exe
+I:\Bluekiller\Desktop\GITHUB\Blueject\Blueject\bin\Debug\CricketGO.pdb
+I:\Bluekiller\Desktop\GITHUB\Blueject\Blueject\obj\Debug\Blueject.csprojAssemblyReference.cache
+I:\Bluekiller\Desktop\GITHUB\Blueject\Blueject\obj\Debug\Blueject.csproj.CoreCompileInputs.cache
+I:\Bluekiller\Desktop\GITHUB\Blueject\Blueject\obj\Debug\CricketGO.exe
+I:\Bluekiller\Desktop\GITHUB\Blueject\Blueject\obj\Debug\CricketGO.pdb
